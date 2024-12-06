@@ -1,0 +1,7 @@
+,
+{
+    "name": "",
+    "designation": "",
+    "image": "images/members/<fileName>",
+    "email": "IEEE/Gmail email id"
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Articles</title>
+    <link rel="stylesheet" href="css/articles.css">
+    <script defer src="scripts/articles.js"></script>
+</head>
+<body>
+    <header class="header">
+        <h1>Articles</h1>
+        <nav class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#search">Search</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="search-container" id="search">
+            <!-- Remove the toggle button as it's no longer needed -->
+            <input type="text" id="search-input" placeholder="Search by article title or author...">
+            <button id="search-button">Search</button>
+
+            <!-- Suggestions will appear here -->
+            <div class="search-suggestions"></div>
+        </section>
+
+        <section class="articles-container">
+            <!-- Articles will load here dynamically -->
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 IEEE CIS MIT-BLR</p>
+    </footer>
+</body>
+</html>

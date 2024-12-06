@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Swarm Intelligence: Nature-Inspired Solutions",
+        "description": "Discover how collective behavior in nature—like ants finding food or birds flocking—can inspire powerful problem-solving algorithms in AI, robotics, and beyond.",
+        "author": "Akshat G & Manas Waykole",
+        "link": "https://www.linkedin.com/pulse/swarm-intelligence-nature-inspired-solutions-ieee-cis-mitblr-znt9f/?trackingId=4y1Z0C7Asfx5FxCF4fDhuw%3D%3D",
+        "image": "images/articles/SwarmIntelligence_Nature_Inspired_Solutions.jpg"
+    },
+    {
+        "title": "A simple introduction to Genetic Algorithms",
+        "description": "This article breaks down the basics of genetic algorithms, how they work and explores their exciting applications in fields like finance, and healthcare.",
+        "author": "Arnav Upadhyay",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_geneticalgorithms-ai-optimization-activity-7250754817843748864-Po2n?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/ASimpleIntroductionToGeneticAlgorithms.jpg"
+    },
+    {
+        "title": "Fuzzy systems for beginners",
+        "description": " Ready to dive into the world of AI and explore how fuzzy logic makes sense of the uncertain? This is your ultimate guide to understanding fuzzy systems in a simple, fun, and practical way!",
+        "author": "Ethan Van Buerle & Krittika Ray",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_fuzzylogic-ai-ieee-activity-7251120825418870786-t3jK?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/Fuzzysystemsforbeginners.jpg"
+    },
+    {
+        "title": "Neural Turing Machines: Bridging Neural Networks and Memory for Advanced AI",
+        "description": "Enter the 𝗡𝗲𝘂𝗿𝗮𝗹 𝗧𝘂𝗿𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 (𝗡𝗧𝗠) - an incredible fusion of neural networks and memory, inspired by the mechanics of the human brain! ",
+        "author": "Atharva Lotlikar & Sreenand Sai T A",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_ai-ieee-ieeecis-activity-7261383267239555072-JLUj?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/NeuralTuringMachinesBridgingNeuralNetworksandMemoryforAdvancedAI.jpg"
+    },
+    {
+        "title": "Self Organizing Maps: An introduction",
+        "description": "In this piece, we dive deep into SOMs—a neural network technique created by Teuvo Kohonen in the 1980s that transforms high-dimensional data into a lower-dimensional, easy-to-understand format.",
+        "author": "Aarushie Joshi & Manas Waykole",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%84-%F0%9D%97%94%F0%9D%97%BF%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%B9%F0%9D%97%B2-%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%81-we-activity-7261998619707199488-K5i3?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/SelfOrganizingMaps.png"
+    },
+    {
+        "title": "Chaos Theory, Neural Networks, and Mathematics: The Backbone of Modern AI",
+        "description": "mathematical principles that fuel cutting-edge AI models like ChatGPT, Claude, Gemini, and Copilot. ",
+        "author": "Ethan Van Buerle & Shartak Verma",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_ieee-cis-ieeecis-activity-7262798274464530432-QF5b?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/ChaosTheory.jpg"
+    }
+]

@@ -1,0 +1,4 @@
+"title": "",
+"description": "",
+"image": "images/events/<FileNameGoesHere>",
+"link": "<A link to a PDF FILE on our github goes here>"
