@@ -5,8 +5,23 @@
         "email": "arnavupadhyay@ieee.org"
     },
     {
+        "name": "Sreenand Sai T A",
+        "image": "images/members/defaultProfilePicture.png",
+        "email": "sreenandsai@ieee.org"
+    },
+    {
         "name": "Akshat G",
         "image": "images/members/AkshatG.jpg",
         "email": "akshat.gururaj@ieee.org"
+    },
+    {
+        "name": "Atharva Lotlikar",
+        "image": "images/members/defaultProfilePicture.png",
+        "email": ""
+    },
+    {
+        "name": "Krittika Ray",
+        "image": "images/members/defaultProfilePicture.png",
+        "email": "krittikaray@ieee.org"
     }
 ]
