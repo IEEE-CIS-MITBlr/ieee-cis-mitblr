@@ -1,6 +1,7 @@
 # IEEE CIS MITBLR Articles Listing Project
 
 Welcome to the official repository of the IEEE CIS MITBLR Articles Listing Project! This project is designed to showcase the articles, events, and member details of the IEEE Computational Intelligence Society at MIT Bengaluru.
+Check out the website here: [IEEE CIS MITBLR Website](https://ieee-cis-mitblr.github.io/ieee-cis-mitblr/index.html#about)
 
 ## Table of Contents
 - [Introduction](#introduction)
