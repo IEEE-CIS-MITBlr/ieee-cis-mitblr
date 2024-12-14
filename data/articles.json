@@ -40,5 +40,12 @@
         "author": "Ethan Van Buerle & Shartak Verma",
         "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_ieee-cis-ieeecis-activity-7262798274464530432-QF5b?utm_source=share&utm_medium=member_desktop",
         "image": "images/articles/ChaosTheory.jpg"
+    },
+    {
+        "title": "The fundamentals of Reinforcement learning",
+        "description": "This article explains everything one needs to know to get started in the field of Reinforcement learning. From the fundamentals to the algorithms, applications and challenges, this article covers it all.",
+        "author": "Aditya R Jemshetty, Jaisika Pradhan & Rushil Bakori",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_reinforcementlearning-ai-machinelearning-activity-7273726899913187328-JjkZ?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/DALLE_reinforcement.jpg"
     }
 ]
