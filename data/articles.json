@@ -47,5 +47,12 @@
         "author": "Aditya R Jemshetty, Jaisika Pradhan & Rushil Bakori",
         "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_reinforcementlearning-ai-machinelearning-activity-7273726899913187328-JjkZ?utm_source=share&utm_medium=member_desktop",
         "image": "images/articles/DALLE_reinforcement.jpg"
+    },
+    {
+        "title": "An Introduction to Transfer Learning",
+        "description": "Ever wondered how AI models can 'learn from the past' to solve new problems faster? Transfer Learning is here to redefine machine learning efficiency by leveraging pre-trained models to tackle related tasks with less data and reduced time!",
+        "author": "Ayush Shukla, Diptanshu Dutta & Jerome Baeyens",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_machinelearning-transferlearning-ai-activity-7274434596203548674-yYgz?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/DALLE_transfer_learning.jpg"
     }
 ]
