@@ -54,5 +54,12 @@
         "author": "Ayush Shukla, Diptanshu Dutta & Jerome Baeyens",
         "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_machinelearning-transferlearning-ai-activity-7274434596203548674-yYgz?utm_source=share&utm_medium=member_desktop",
         "image": "images/articles/DALLE_transfer_learning.jpg"
+    },
+    {
+        "title": "An Introduction to Reservoir Computing",
+        "description": "Dive into the fascinating world of Reservoir Computing, an innovative paradigm that simplifies the training of neural networks while tackling complex tasks efficiently. Discover how reservoirs act as dynamic systems to process information in ways that traditional models can’t!",
+        "author": "Arnav Upadhyay & Krittika Ray",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_reservoircomputing-neuralnetworks-ai-activity-7274799824942620672-uieH?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/DALLE_reservoir_computing.jpg"
     }
 ]
