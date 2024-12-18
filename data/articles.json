@@ -61,5 +61,12 @@
         "author": "Arnav Upadhyay & Krittika Ray",
         "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_reservoircomputing-neuralnetworks-ai-activity-7274799824942620672-uieH?utm_source=share&utm_medium=member_desktop",
         "image": "images/articles/DALLE_reservoir_computing.jpg"
+    },
+    {
+        "title": "An Introduction to Federated Learning",
+        "description": " Federated Learning is revolutionizing AI by enabling collaborative training across devices while keeping data private and secure. Dive deep into its fundamentals, workings, and why it’s a game-changer for privacy-first AI systems.",
+        "author": "Chandrajit Ghosh, Soham Bhattacherjee & Sujith Veera",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_federatedlearning-ai-machinelearning-activity-7275093525640196096-kbLe?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/DALLE_federated_learning.jpg"
     }
 ]
