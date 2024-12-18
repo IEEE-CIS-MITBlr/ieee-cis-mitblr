@@ -68,5 +68,12 @@
         "author": "Chandrajit Ghosh, Soham Bhattacherjee & Sujith Veera",
         "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_federatedlearning-ai-machinelearning-activity-7275093525640196096-kbLe?utm_source=share&utm_medium=member_desktop",
         "image": "images/articles/DALLE_federated_learning.jpg"
+    },
+    {
+        "title": "Transforming NLP: From Fundamentals to Transformers",
+        "description": "Natural Language Processing (NLP) has come a long way, empowering machines to understand, interpret, and generate human language like never before. This article takes you on a journey from the core techniques of NLP to the revolutionary impact of Transformers like BERT and GPT.",
+        "author": "Arnav Upadhyay, Prangan Sinha & Tushar S Chillal",
+        "link": "https://www.linkedin.com/posts/ieee-cis-mitblr_nlp-transformers-machinelearning-activity-7275132736661573633-55Ke?utm_source=share&utm_medium=member_desktop",
+        "image": "images/articles/DALLE_NLP.jpg"
     }
 ]
