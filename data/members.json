@@ -6,7 +6,7 @@
     },
     {
         "name": "Sreenand Sai T A",
-        "image": "images/members/defaultProfilePicture.png",
+        "image": "images/members/Nanda_img.jpeg",
         "email": "sreenandsai@ieee.org"
     },
     {
@@ -16,12 +16,17 @@
     },
     {
         "name": "Atharva Lotlikar",
-        "image": "images/members/defaultProfilePicture.png",
-        "email": ""
+        "image": "images/members/Atharva_img.jpg",
+        "email": "atharvalotlikar@ieee.org"
     },
     {
         "name": "Krittika Ray",
-        "image": "images/members/defaultProfilePicture.png",
+        "image": "images/members/Krittika_img.jpeg",
         "email": "krittikaray@ieee.org"
+    },
+    {
+        "name": "Manas Waykole",
+        "image": "images/members/Manas_img.jpeg",
+        "email": "manaswaykole@ieee.org"
     }
 ]
