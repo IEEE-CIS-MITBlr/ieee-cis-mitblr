@@ -38,6 +38,11 @@
         "name": "Ethan Van Buerle",
         "image": "images/members/Ethan_img.jpeg",
         "email": "ethanrvanbuerle@ieee.org"
+    },
+    {
+        "name": "Vismay Talluri",
+        "image": "images/members/Visamy_img.jpeg",
+        "email": "vismaytalluri@ieee.org"
     }
 
 ]
