@@ -28,5 +28,16 @@
         "name": "Manas Waykole",
         "image": "images/members/Manas_img.jpeg",
         "email": "manaswaykole@ieee.org"
+    },
+    {
+        "name": "Ambikesh Jha",
+        "image": "images/members/Ambikesh_img.jpeg",
+        "email": "ambikesh.jha@ieee.org"
+    },
+    {
+        "name": "Ethan Van Buerle",
+        "image": "images/members/Ethan_img.jpeg",
+        "email": "ethanrvanbuerle@ieee.org"
     }
+
 ]
